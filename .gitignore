@@ -1,0 +1,10 @@
+/elpa
+/speed-type
+/auto-save-list
+/eshell
+/persp-confs
+.DS_Store
+.mc-list.el
+abbrev_defs
+ac-comphist.dat
+recentf

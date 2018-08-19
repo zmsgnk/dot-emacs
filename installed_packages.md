@@ -1,0 +1,30 @@
+- use-package
+  - http://emacs.rubikitch.com/use-package-2/
+  - https://github.com/jwiegley/use-package
+  - http://qiita.com/kai2nenobu/items/5dfae3767514584f5220
+- package-utils
+- init-loader
+  - http://emacs.rubikitch.com/init-loader/
+- helm
+- auto-complete
+- smartparens
+- smart-newline
+- smartrep
+- multiple-cursors
+- ess
+- shell-pop
+- web-mode
+- exec-path-from-shell
+- magit
+- elpy
+- sql-indent
+- ~ emacs-tss ~
+  - https://monolog.linkode.co.jp/articles/kotoh/Emacs%E3%81%ABTypeScript%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B
+- tide
+  - http://blog.shibayu36.org/entry/2015/07/30/165626
+- golangの設定
+  - http://qiita.com/bussorenre/items/3e80e59d517db8aebf46
+  - company-go
+  - go-mode
+- markdown-mode
+  - https://jblevins.org/projects/markdown-mode/
